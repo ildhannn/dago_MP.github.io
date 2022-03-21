@@ -1,0 +1,64 @@
+.menu_atas {
+  background-color: #BDBCBC;
+}
+
+.bg {
+  transition: 0.5s ease;
+  background-color:  transparent;
+}
+
+.bg.scrolled {
+  background-color: #565656;
+}
+
+ /* Style the navbar links */
+#nav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+}
+
+#nav a:hover {
+  background-color: gray;
+  color: black;
+  border-color: black;
+  border-radius: 10px;
+}
+
+.paddTop {
+  padding-top: 50px;
+}
+
+.margin_caurosel {
+  width: 90px;
+  height: 90px;
+}
+
+.container .bg {
+  background-color: gray;
+}
+
+.jumbotron {
+	padding-top: 5rem;
+	background-color: #E9E9E9;
+}
+
+#produk {
+	background-color: #E9E9E9;
+}
+
+.fs_footer {
+  font-size: 13px;
+}
+
+.short {
+  width: 100px;
+}
+
+footer {
+	padding-bottom: 5px;
+  background-color: #E9E9E9;
+}
